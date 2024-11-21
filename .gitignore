@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Vite cache (for frontend)
+.vite/
+
+# Build output for frontend (Vite)
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Frontend-specific (React/Vite)
+# Ignore Vite and other build files
+frontend/dist/
+frontend/.vite/
+frontend/node_modules/
+frontend/.env
+
+# Backend-specific (Node.js)
+# Ignore backend server files
+server/node_modules/
+server/.env
+
+# Optional: Ignore any other server-related files or folders like tmp or cache
+server/tmp/
+server/cache/
