@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f580d99b-5b34-4c40-afc2-74979682340b)# Blog Web App using MERN Stack
+# Blog Web App using MERN Stack
 Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
 
 # Functionalities
